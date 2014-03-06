@@ -4,7 +4,7 @@ SEAMS is a CSS methodology that helps you write and organize your CSS better. It
 
 With SEAMS you organize your CSS into interchangeable parts that can be reused and modified easily; think car manufacturing and maintenance. Hand-crafted, bespoke CSS has no place here and the ideal is to reuse existing UI as much as possible, instead of creating new pieces of UI for every new feature from scratch.
 
-In this document I’ll take you through details of SEAMS you need to implement it in your project.
+In this document I’ll give you a rundown of SEAMS so you need to implement it in your project.
 
 ## The Basics
 
